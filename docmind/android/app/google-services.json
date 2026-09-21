@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057117024611",
+    "project_id": "docmind-f1b9b",
+    "storage_bucket": "docmind-f1b9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057117024611:android:c163cc9fc06de77438a356",
+        "android_client_info": {
+          "package_name": "com.example.docmind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHoDCehJk24hbphqDrsvcXrKR4sFDh4oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
